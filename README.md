@@ -1,2 +1,2 @@
 # BI-financials
-Relatório de Financials
+Relatório de Financials no Power BI
